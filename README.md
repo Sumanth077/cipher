@@ -1,17 +1,11 @@
-# Byterover
 
-<div align="center">
+# Byterover 🚀
 
-<p align="center">
-<em>Give your AI coding agents persistent memory and shared context across sessions 🚀</em>
-</p>
+Byterover is a context engineering platform that lets you:
 
-## Overview
-
-ByteRover is a context engineering platform that lets you:
-- 🧠 Curate context for your coding agents—patterns, decisions, and learnings
-- 🔌 Pair with agents to capture context from their tasks automatically
-- 🔄  Sync context across team members so everyone works with the same knowledge
+- 🧠 **Curate context** for your coding agents: patterns, decisions, and learnings
+- 🔌 **Pair with agents** to capture context from their tasks automatically
+- 🔄 **Sync context** across team members so everyone works with the same knowledge
 
 <p align="center">
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-Elastic%202.0-blue.svg" alt="License" /></a>
